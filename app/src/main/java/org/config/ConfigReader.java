@@ -1,4 +1,4 @@
-package config;
+package org.config;
 
 import java.io.InputStream;
 import java.util.Properties;
